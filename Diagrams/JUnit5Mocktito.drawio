@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T20:02:30.157Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QKS7veFvrXyek2O7yAVQ" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T22:09:44.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0TukOHCnb1EU68exkHgz" version="20.8.13" type="github">
   <diagram name="Page-1" id="JSIpw-Gab11g-2oWEoVy">
-    <mxGraphModel dx="955" dy="572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="1048" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,6 +96,172 @@
         </mxCell>
         <mxCell id="bXxNS1EfpRLiCX-voFhY-26" value="return request &lt;br&gt;method call&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=30;" vertex="1" parent="1">
           <mxGeometry x="214" y="1031" width="93" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXxNS1EfpRLiCX-voFhY-28" target="bXxNS1EfpRLiCX-voFhY-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="977" y="647" />
+              <mxPoint x="977" y="647" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-28" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="862" y="562" width="20" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-29" value="Test Engineer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="826.5" y="533" width="91" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXxNS1EfpRLiCX-voFhY-30" target="bXxNS1EfpRLiCX-voFhY-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1109" y="688" />
+              <mxPoint x="1109" y="688" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-30" value=":Mocktito" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="989" y="562" width="100" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-83" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=none;" vertex="1" parent="bXxNS1EfpRLiCX-voFhY-30">
+          <mxGeometry x="45" y="66.5" width="10" height="272.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bXxNS1EfpRLiCX-voFhY-32" target="bXxNS1EfpRLiCX-voFhY-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1279" y="749" />
+              <mxPoint x="1279" y="749" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-32" value=":Software&amp;nbsp;&lt;br&gt;Component&amp;nbsp;&lt;br&gt;Under Test" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="562" width="100" height="809" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-84" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=none;" vertex="1" parent="bXxNS1EfpRLiCX-voFhY-32">
+          <mxGeometry x="45" y="114" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-34" value=":Mock &lt;br&gt;Dependency Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1529" y="562" width="108" height="799" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-36" value=":Bomb" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1739" y="562" width="100" height="801" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-82" value="10: Inform Appropriate Call Sent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bXxNS1EfpRLiCX-voFhY-36">
+          <mxGeometry x="-141.25" y="704" width="177.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-87" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=none;" vertex="1" parent="bXxNS1EfpRLiCX-voFhY-36">
+          <mxGeometry x="45" y="636" width="10" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-39" value="1: Integrate &lt;br&gt;Mocktito Framework" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="895" y="604" width="126" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-42" value="2: Initiate Test" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1082" y="662" width="92" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-44" value=":Dependency Component" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1347" y="562" width="100" height="803" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-50" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="776" y="771" width="920" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1.001;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.004;exitY=0.496;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;strokeWidth=2;" edge="1" parent="1" source="bXxNS1EfpRLiCX-voFhY-50" target="bXxNS1EfpRLiCX-voFhY-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1308" y="819" as="sourcePoint" />
+            <mxPoint x="1358" y="769" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-52" value="mock object does not exist" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="791" y="839" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-53" value="mock object does exist" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="791" y="1009" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-63" value="5: Create Imposter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="889" y="829" width="132" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-66" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" target="bXxNS1EfpRLiCX-voFhY-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1039" y="810" as="sourcePoint" />
+            <mxPoint x="1239" y="772" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-67" value="4: Inform No Mock Double" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="875" y="779" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-48" value="3: Requires&lt;br&gt;Dependency Component" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1228.5" y="705" width="151" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-68" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1" source="bXxNS1EfpRLiCX-voFhY-28" target="bXxNS1EfpRLiCX-voFhY-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="886" as="sourcePoint" />
+            <mxPoint x="1260" y="836" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="932" y="856" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-72" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1" source="bXxNS1EfpRLiCX-voFhY-30" target="bXxNS1EfpRLiCX-voFhY-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1235" y="859" as="sourcePoint" />
+            <mxPoint x="1285" y="809" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1059" y="889" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-73" value="6: Imposterize" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1084" y="857" width="88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-75" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1" source="bXxNS1EfpRLiCX-voFhY-44" target="bXxNS1EfpRLiCX-voFhY-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="965" as="sourcePoint" />
+            <mxPoint x="1310" y="915" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1536" y="931" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-76" value="7: Instantiate Mock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1431" y="900" width="116" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-77" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1" source="bXxNS1EfpRLiCX-voFhY-44" target="bXxNS1EfpRLiCX-voFhY-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1328" y="896" as="sourcePoint" />
+            <mxPoint x="1378" y="846" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1566" y="1063" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-78" value="8: Utilize Imposter Component" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400.25" y="1031" width="177.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-79" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;" edge="1" parent="1" source="bXxNS1EfpRLiCX-voFhY-34" target="bXxNS1EfpRLiCX-voFhY-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1227" y="1038" as="sourcePoint" />
+            <mxPoint x="1277" y="988" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1765" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-80" value="9: Send Dependency Method Call" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1623" y="1178" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-81" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="bXxNS1EfpRLiCX-voFhY-36" target="bXxNS1EfpRLiCX-voFhY-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1278" y="1048" as="sourcePoint" />
+            <mxPoint x="1328" y="998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1278" y="1299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-85" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1392" y="736" width="10" height="341" as="geometry" />
+        </mxCell>
+        <mxCell id="bXxNS1EfpRLiCX-voFhY-86" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1577.75" y="921.5" width="10" height="300.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
